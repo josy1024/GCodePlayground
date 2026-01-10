@@ -1,6 +1,6 @@
-## PETG
+## PETG PRUSA COREONE 0.4 +  
 
-* prusa coreone+  setttings, base use **"0.2 mm STRUCTUAL @COREONE 0.4"**
+* setttings, base use **"0.2 mm STRUCTUAL @COREONE 0.4"**
 * adapt layer heights (Tested 0,2 and 0,3) if needed
 * Chamber Minimal Temp 27, Targetted Chamber Temp: 35°
 *
