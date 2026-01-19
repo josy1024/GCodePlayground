@@ -7,6 +7,9 @@ cnc milling, 3d printing, world creating in 3d
 
 * [prusaslicer and filament settings.md](prusaslicerandfilamentsettings.md)
 
+* [Prusa CoreOne+ start.md](prusacoreplusstart.md)
+
+
 ## 3d milling
 
 
