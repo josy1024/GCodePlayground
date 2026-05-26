@@ -22,3 +22,9 @@ Example of PETG printing with stringing issues caused by printing speed being to
 ### [petg-too-low-temp-first-layers.png](petg-too-low-temp-first-layers.png)
 
 Example of PETG printing with temperature issues in the first layers. The nozzle temperature was too low, resulting in poor layer adhesion and extrusion quality.
+
+### nextruder rattling
+beispiel für verschmutzten Nextruder - maybe: did too tight Idler-swivel assembly? https://help.prusa3d.com/guide/6-nextruder-assembly_982284#993789
+Symtoms:
+The filament feed is stuttering, Nextruder rattling
+
